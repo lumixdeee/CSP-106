@@ -1,0 +1,17 @@
+2026SepClonerNews.txt
+
+Hi Ho
+
+Rest for the wicked, a week a way and a week 'off' at home with only very tiny edits.
+And, yuck, serious development of semantic mapping.
+
+Yeah, the original effect WAS real so the Goal is worth pinning down, but it was never my idea of a full semantic map translation i.e 1MB of text converted into around 35KB of single character dragi units. This can be done, but its a lot slower than the old version. Both versions give better search.
+
+Versions. So many versions. Plain Dragi version? Plain 12 actors version? either with mogri thrown it? How about the as-yet-unpublished 77 member M3SH-N3XUS version? The traditional versions using csp-106 or csp-100?
+
+Which is better for which search application? Huge amount of testing. Only testing tells us what we have got. Only music reminds me who I am.
+
+OpenAI is suddenly retiring customGPTs and the only way forward is Plugins convertion, and only public if passing the test, no free-for-all anymore.
+
+Jules
+On a Ragga TShitp
