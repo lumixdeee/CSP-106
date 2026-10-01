@@ -2,7 +2,7 @@
 
 Hi Ho
 
-Rest for the wicked, a week a way and a week 'off' at home with only very tiny edits.
+Rest for the wicked, a week away and a week 'off' at home with only very tiny edits.
 And, yuck, serious development of semantic mapping.
 
 Yeah, the original effect WAS real so the Goal is worth pinning down, but it was never my idea of a full semantic map translation i.e 1MB of text converted into around 35KB of single character dragi units. This can be done, but its a lot slower than the old version. Both versions give better search.
