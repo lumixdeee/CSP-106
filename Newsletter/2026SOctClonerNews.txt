@@ -1,0 +1,23 @@
+2026SOctClonerNews.txt
+
+Happy Haloween
+
+There is a paper some where, Nightmare on LLM Street, about how LLM don't understand the imbalance between risk signalling and reward sigs, on one of these repos, most likely LMXDI
+
+Been a robot this month, just hitting 'next' on the bot making semantic maps which take multiple turns to complete, rarely chat to the chatbot nowadays.
+
+Basic structrure of semantic map:
+
+LOC	WHAT NNN SNAKE FIND
+
+LOC = address of item
+WHAT = what item is
+NNN = names n neologisms
+SNAKE is the actual story->DRAGI units conversion
+FIND = any other stuff useful for search index generally
+
+Instead of DRAGI, can use other units such as 12 actors, mogri, even the CSP-106 list.
+
+So this gives lots of combinations to test. November is all about porting the custom GPTs to 'plugins' before retirement, then figure out how to republicise them as it's a bit of a faff.
+
+Thicc cheers, Jules
