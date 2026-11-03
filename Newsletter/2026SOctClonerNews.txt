@@ -8,9 +8,10 @@ Been a robot this month, just hitting 'next' on the bot making semantic maps whi
 
 Basic structrure of semantic map:
 
-LOC	WHAT NNN SNAKE FIND
+LOC  H32  WHAT  NNN  SNAKE  FIND
 
 LOC = address of item
+H32 = hash of your choice
 WHAT = what item is
 NNN = names n neologisms
 SNAKE is the actual story->DRAGI units conversion
